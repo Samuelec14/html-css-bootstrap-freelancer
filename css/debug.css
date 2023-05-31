@@ -1,0 +1,34 @@
+/* HEADER 
+*/
+.debug header{
+    min-height: 30px;
+}
+.debug main .section-1{
+    min-height: 230px;
+    background-color: rgb(26, 188, 156);
+}
+.debug .image-box{
+    width: 12.5rem;
+    height: 12.5rem;
+    background-color: azure;
+}
+.debug main .section-2 .box{
+    height: 16.375rem;
+    background-color: beige;
+}
+.debug .section-3{
+    min-height: 230px;
+    background-color: rgb(26, 188, 156);
+}
+.debug .section-4{
+    min-height: 230px;
+    background-color: white;
+}
+.debug footer .section-1{
+    min-height: 60px;
+    background-color: rgb(58, 84, 109);
+}
+.debug footer .section-2{
+    min-height: 60px;
+    background-color: rgb(44, 62, 80);
+}
