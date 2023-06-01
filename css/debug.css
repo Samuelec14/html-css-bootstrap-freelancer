@@ -7,11 +7,11 @@
     min-height: 230px;
     background-color: rgb(26, 188, 156);
 }
-.debug .image-box{
+/* .debug .image-box{
     width: 12.5rem;
     height: 12.5rem;
     background-color: azure;
-}
+} */
 .debug main .section-2 .box{
     height: 16.375rem;
     background-color: beige;

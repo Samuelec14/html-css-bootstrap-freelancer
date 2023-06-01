@@ -1,12 +1,34 @@
 
+/* ------------------------ GENERALS ------------------------ */
+img{
+    width: 100%;
+}
 
-/* HEADER 
-*/
+
+
+/* ------------------------ HEADER ------------------------ */
 
 header{
     background-color: rgb(44, 62, 80);
+    height: 4.375rem;
 }
 
+
+
+/* ------------------------ MAIN ------------------------ */
+
+
+/* ------------- SECTION 1 - USER ----------- */
+
+main .section-1 .container .image-box{
+    width: 12.5rem;
+}
+main .section-1{
+    color: white;
+}
+
+
+/* ----------- SECTION 2 - PORTFOLIO --------- */
 main .section-2{
     background-color: white;
 }
