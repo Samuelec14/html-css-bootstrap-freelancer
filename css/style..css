@@ -41,7 +41,8 @@ main .section-1 .container .image-box{
 main .section-1{
     color: white;
 }
-main .section-1 .line{
+main .section-1 .line,
+main .section-3 .line{
     background-color: white;
 }
 
@@ -51,6 +52,7 @@ main .section-2{
     background-color: white;
 }
 
-main .section-2 .line{
+main .section-2 .line,
+main .section-4 .line{
     background-color: black;
 }
