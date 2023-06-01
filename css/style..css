@@ -5,6 +5,21 @@ img{
 }
 
 
+.cut{
+    display: inline-block;
+    vertical-align: middle;
+}
+.star{
+    margin: 0 .125rem;
+    font-size: 1.6375rem;
+}
+.line{
+    height: 3px;
+    width: 13%;
+    border-radius: 10px;
+}
+
+
 
 /* ------------------------ HEADER ------------------------ */
 
@@ -26,9 +41,16 @@ main .section-1 .container .image-box{
 main .section-1{
     color: white;
 }
+main .section-1 .line{
+    background-color: white;
+}
 
 
 /* ----------- SECTION 2 - PORTFOLIO --------- */
 main .section-2{
     background-color: white;
+}
+
+main .section-2 .line{
+    background-color: black;
 }

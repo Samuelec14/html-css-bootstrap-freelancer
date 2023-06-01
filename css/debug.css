@@ -12,10 +12,10 @@
     height: 12.5rem;
     background-color: azure;
 } */
-.debug main .section-2 .box{
+/* .debug main .section-2 .box{
     height: 16.375rem;
     background-color: beige;
-}
+} */
 .debug .section-3{
     min-height: 230px;
     background-color: rgb(26, 188, 156);
@@ -31,4 +31,21 @@
 .debug footer .section-2{
     min-height: 60px;
     background-color: rgb(44, 62, 80);
+}
+
+/* TEST 
+*/
+.cut{
+    display: inline-block;
+    vertical-align: middle;
+}
+.star{
+    margin: 0 .125rem;
+    font-size: 1.6375rem;
+}
+.line{
+    height: 3px;
+    width: 13%;
+    background-color: white;
+    border-radius: 10px;
 }
