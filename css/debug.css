@@ -35,7 +35,7 @@
 
 /* TEST 
 */
-.cut{
+/* .cut{
     display: inline-block;
     vertical-align: middle;
 }
@@ -48,4 +48,13 @@
     width: 13%;
     background-color: white;
     border-radius: 10px;
+} */
+
+.border_reset{
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid lightgray;
+}
+.border_desable{
+    border: none;
 }

@@ -56,3 +56,12 @@ main .section-2 .line,
 main .section-4 .line{
     background-color: black;
 }
+
+/* ----------- SECTION 4 - CONTACT ME --------- */
+main .section-4 form button{
+    background-color: rgb(26, 188, 156);
+    border: none;
+}
+main .section-4 form button:hover{
+    background-color: rgb(43, 167, 143);
+}
